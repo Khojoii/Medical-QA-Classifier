@@ -105,13 +105,8 @@ pip install transformers datasets scikit-learn nltk rouge-score
 * 🔗 GitHub: [@Khojoii](https://github.com/Khojoii)
 * 📧 Contact: [m.khojoii@gmail.com](mailto:m.khojoii@gmail.com)
 
----
 
 
 
-```
-
----
 
 
-```
