@@ -1,6 +1,3 @@
-حتماً! در ادامه یک فایل `README.md` کامل و حرفه‌ای برای پروژه‌ی شما می‌نویسم که می‌تونی مستقیماً در GitHub استفاده کنی:
-
----
 
 ````markdown
 # 🧠 Medical QA Text Classifier with distilbert
